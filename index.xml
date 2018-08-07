@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KEN&#43;ZO&#39;s Blog</title>
+    <title>KEN&#43;ZO&#39;s BLOG</title>
     <link>https://helayzhang.github.io/</link>
-    <description>Recent content on KEN&#43;ZO&#39;s Blog</description>
+    <description>Recent content on KEN&#43;ZO&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <managingEditor>youremail@domain.com (HelayZhang)</managingEditor>
+    <webMaster>youremail@domain.com (HelayZhang)</webMaster>
     <lastBuildDate>Tue, 07 Aug 2018 10:55:40 +0800</lastBuildDate>
     
 	<atom:link href="https://helayzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +16,7 @@
       <title>My First Post</title>
       <link>https://helayzhang.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 07 Aug 2018 10:55:40 +0800</pubDate>
-      
+      <author>youremail@domain.com (HelayZhang)</author>
       <guid>https://helayzhang.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
